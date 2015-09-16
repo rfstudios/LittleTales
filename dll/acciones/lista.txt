@@ -1,0 +1,66 @@
+/* Grupo 1 */	
+function mostrarmensaje()	
+function esperar()
+function go_to()
+function elecciones()
+
+/* Grupo 2 */
+function borrar_evento()
+
+/* Grupo 3 */
+function cambiar_dinero()
+function cambiar_objetos()
+function cambiar_grupo()
+	
+/* Grupo 4 */
+function cambiar_permisos_guardado()
+function guardar()
+function cargar()
+
+/* Grupo 5 */
+function teletransportar(int x,int y,int z,int mapa)
+function cambiar_pos_evento()
+function cambiar_graficos_mapa()	
+function cambiar_tono_niebla()	
+function cambiar_transparencia()
+function mover_personaje()
+
+/* Grupo 6 */
+function cambiar_tono_pantalla()
+function flash_pantalla()
+function sacudir_pantalla()
+
+/* Grupo 7 */
+function mostrar_imagen()
+function mover_imagen()
+function rotar_imagen()
+function cambiar_tono_imagen()
+function borrar_imagen()
+function opciones_clima()
+
+/* Grupo 8 */
+function cambiar_musica()
+function decrecer_musica()
+function reproducir_sonido()
+function esperar_sonido()
+
+/* Grupo 9 */
+function iniciar_tienda()
+
+/* Grupo 10 */
+function cambiar_pv()	
+function cambiar_pm()
+function cambiar_estado()
+function curar_todo()
+function cambiar_experiencia()
+function cambiar_nivel()
+function cambiar_parametros()
+function cambiar_habilidades()
+function cambiar_equipamiento()
+function cambiar_grafico_personaje()
+
+/* Grupo 11 */
+function llamar_menu()
+function menu_guardar()
+function game_over()
+function llamar_mainmenu()
